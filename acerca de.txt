@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
-Edad: 			23
+Nombre: 		Rabi Soto Camacho
+Edad: 			31
 Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en Computación
-Profesión:		Lead Project Manager
+Originario de: 		Frontera Hidalgo, Chiapas, Mexico
+Estudios:		Lic. en Electrónica
+Profesión:		Estudiante Doctorado
